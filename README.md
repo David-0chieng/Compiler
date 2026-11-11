@@ -1,6 +1,6 @@
 # Lexical Analyser
 
-Scanner for a simple variable declaration language (Compiler Construction class activity).
+Scanner for a simple variable declaration language 
 
 ## Tokens
 
